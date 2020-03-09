@@ -21,9 +21,8 @@ const results = {};
         results[item] = 1;
       }
     }
-  } console.log(results)
-
-
+  } 
+  console.log(results)
   return results;
 }
 const firstNames = [

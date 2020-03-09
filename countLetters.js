@@ -8,6 +8,7 @@ const assertEqual = function(actual, expected) {
 };
 //AssertEqual function ends
 
+
 const countLetters = function(string){
   let str = string.replace(/\s/g, '').toLowerCase();
   let object = {};
