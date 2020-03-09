@@ -1,0 +1,33 @@
+{
+  "name": "@shaiknazia.n/lotide",
+  "version": "1.0.0",
+  "description": "Lotide file",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "my-package": "0.0.0",
+    "user": "0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaiknazia/lotide.git"
+  },
+  "author": {
+    "name": "Nazia Shaik",
+    "email": "shaik.nazian@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaiknazia/lotide/issues"
+  },
+  "homepage": "https://github.com/shaiknazia/lotide#readme"
+}
